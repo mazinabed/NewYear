@@ -1,7 +1,9 @@
 # NewYear
-New Year Animation Created with CSS and HTML
+New Year Animation Created with CSS and HTML.
 
-## Deployed Link##
+## Feel free to use it. 
+
+## Deployed Link
 https://mazinabed.github.io/NewYear/
 
 
